@@ -1,7 +1,7 @@
 %define oname types_python_dateutil
 
 Name:		python-types-python-dateutil
-Version:	2.9.0.20260124
+Version:	2.9.0.20260305
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/t/%{oname}/%{oname}-%{version}.tar.gz#/%{name}-%{version}.tar.gz
 Summary:	Typing stubs for python-dateutil
